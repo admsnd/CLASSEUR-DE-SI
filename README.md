@@ -13,24 +13,13 @@
 
 ## 📂 Orientation
 - 📂 Parcoursup  
-  - 📜 Projet_formation_motive.md  
-  - 📜 Bulletins_notes.pdf  
-  - 📜 Classement.md  
+
 - 📂 Ecoles_ciblees  
-  - 📜 INSA.md  
-  - 📜 UTC.md  
-  - 📜 ITEEM.md  
-  - 📜 Autres_ecoles.md  
-- 📜 README.md  
+ 
 
 ## 📂 Ressources
-- 📜 Liens_utiles.md  
-- 📜 Bibliographie.md  
-- 📜 Fiches_methodo.md  
+- 
 
-## Fichiers racine
-- 📜 README.md  
-- 📜 .gitignore  
 
 
 
